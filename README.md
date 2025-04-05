@@ -9,4 +9,5 @@
 
 2. Electronic Health Records (EHR) Analysis
    Predictive Modeling: Forecast patient outcomes (e.g., ICU mortality).
+
    Time-Series Forecasting: Predict disease progression (e.g., diabetes).
